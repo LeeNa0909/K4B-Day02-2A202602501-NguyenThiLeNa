@@ -4,10 +4,10 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
+- Họ và tên: Nguyễn Thị Lê Na
+- Mã học viên: 2A202602501
+- Nhóm: Capitalism
+- Candidate problem nhóm chọn: Mọi người nhận nhiều tin nhắn và thông báo từ các hội nhóm nhưng khó xác định thông tin nào quan trọng và cần hành động, dẫn đến dễ bỏ sót deadline, lịch học hoặc các thay đổi quan trọng.
 
 ---
 
@@ -74,13 +74,13 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 
 ## 4. Tự kiểm cuối bài (check trước khi nộp repo)
 
-- [ ] [12đ] Cá nhân có 5+ problems + top 3 Problem Cards
-- [ ] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (ghi ở bảng mục 1)
-- [ ] Nhóm có nhật ký hội tụ từ candidates về 1 bài
-- [ ] [15đ] Nhóm có workflow trước/sau
-- [ ] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ
-- [ ] [15đ] Nhóm có so sánh No AI / Rule / Workflow / Agent
-- [ ] [10đ] Nhóm có Go / Not Yet / No-Go + lý do rõ
-- [ ] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì
-- [ ] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI
+- [x] [12đ] Cá nhân có 5+ problems + top 3 Problem Cards
+- [x] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (ghi ở bảng mục 1)
+- [x] Nhóm có nhật ký hội tụ từ candidates về 1 bài
+- [x] [15đ] Nhóm có workflow trước/sau
+- [x] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ
+- [x] [15đ] Nhóm có so sánh No AI / Rule / Workflow / Agent
+- [x] [10đ] Nhóm có Go / Not Yet / No-Go + lý do rõ
+- [x] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì
+- [x] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI
 

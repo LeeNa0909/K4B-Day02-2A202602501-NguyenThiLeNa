@@ -12,6 +12,7 @@
 | 4 | Văn Thành Huy | 2A202602763 | Phản biện |
 | 5 | Phạm Thị Thùy Linh | 2A202602909 | researcher  |
 | 6 | Phạm Đình Bảo Khôi | 2A202602434 | thuyết trình  |
+
 **Candidate problem nhóm chọn (1 câu):**
 
 Mọi người nhận nhiều tin nhắn và thông báo từ các hội nhóm nhưng khó xác định thông tin nào quan trọng và cần hành động, dẫn đến dễ bỏ sót deadline, lịch học hoặc các thay đổi quan trọng.
